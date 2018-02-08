@@ -1,0 +1,97 @@
+.container
+{
+
+    background-color: black;
+    background:url("pics/snake.gif")no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Sofia';
+
+}
+
+
+#second
+{
+  background-color: black;
+  background-size: cover;
+  padding-left: 200;
+  text-indent: 22px;
+  position: fixed;
+ border: 3px solid green;
+}
+
+
+#button1
+{
+  text-align: center;
+  padding-top: 45%;
+
+}
+
+.button{
+    position: relative;
+     border: white;
+     background: black;
+     padding: 15px 32px;
+     text-align: center;
+     color: brown;
+     border-radius: 50%;
+     font-size: 16px;
+
+
+}
+
+#head
+{
+  text-shadow: 3px 2px black;
+  text-decoration: underline;
+  text-align: center;
+  position: relative;
+  color: red;
+}
+td
+{
+    width: 20px;
+    height: 20px;
+}
+
+.blank
+{
+  background:url("pics/snake.gif")fixed;
+
+  background-position: cover;
+
+}
+
+.snake
+{
+
+background:url("pics/goat.png");
+background-size: cover;
+background-position: absolute;
+
+}
+
+.wall
+
+{
+
+  background:url("pics/fire2.gif");
+  background-size: cover;
+
+}
+
+.fruit
+
+{
+
+  background:url("pics/egg.jpeg");
+  background-size: cover;
+  background-position: relative;
+}
+
+#score
+{
+  color:red;
+  font-family: 'Sofia';
+  font-size: 22px;
+}
