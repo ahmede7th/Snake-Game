@@ -1,5 +1,6 @@
-![Alt text](https://github.com/ahmede7th/Snake-Game/blob/master/Snake/pics/snake.gif?raw=true "Title")
 # Snake
+![Alt text](https://github.com/ahmede7th/Snake-Game/blob/master/Snake/pics/snake.gif?raw=true "Title")
+#
 Clone of classic snake game made with HTML, CSS and Javascript
 
 
